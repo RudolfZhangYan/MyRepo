@@ -1,7 +1,7 @@
 # This is a test
 
 
-ddd
+
 Thanks for visiting our first Github Pages.
 
 Demo for Ben
