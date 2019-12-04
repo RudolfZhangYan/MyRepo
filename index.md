@@ -1,7 +1,5 @@
 # This is a test
 
-This is test
-
 Thanks for visiting our first Github Pages.
 
 Demo for Ben
@@ -11,4 +9,6 @@ This is a build test
 This is a second test
 Avarto
 
-Not good
+Very nice
+
+Test
