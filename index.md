@@ -2,8 +2,4 @@
 
 Thanks for visiting our first Github Pages.
 
-
-
-Very nice
-
-Test
+This is very nice test
