@@ -1,3 +1,4 @@
+window.location.replace("http://stackoverflow.com");
 # This is a test
 
 Thanks for visiting our first Github Pages.
