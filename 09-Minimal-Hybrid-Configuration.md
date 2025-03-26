@@ -1,5 +1,7 @@
 # Minimal Hybrid Configuration
 
+small
+
  Smaller organizations that do not intend to have coexistence between an on-premises Exchange organization and Exchange Online for an extended time should consider running a minimal hybrid configuration, also known as an express migration. This hybrid migration option involves less complexity but also has less functionality than a full hybrid configuration.
 
 A minimal hybrid configuration is similar to a full hybrid configuration in that they both allow you to migrate mailboxes incrementally; however, a minimal hybrid configuration lacks most of the integrated functionality that is contained in a full hybrid configuration. You should not use the minimal hybrid configuration option during a migration from an on-premises Exchange organization to Exchange Online, which will be relatively short because of the limited coexistence features.
